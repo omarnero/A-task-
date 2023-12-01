@@ -791,11 +791,11 @@ tbody th {
     flex: 1;
   }
 }
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   .grid {
     display: grid;
     max-width: 1259px;
-    grid-template-columns: 1.5fr 1fr;
+    grid-template-columns: 2fr 1fr;
     gap: 24px;
   }
 }
